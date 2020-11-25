@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.bilde-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+}
+
+.bilde-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    width: 50%;
+}
+.bilde-3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    width: 50%;
+}  
+body {
+    background-image: url("bilder/pepe.2.png");
+    background-color: #cccccc;
+   }
